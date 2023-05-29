@@ -1,0 +1,7 @@
+.border{
+box-sizing:border-box;
+}
+.entirecodewrapper{
+    display:flex-col;
+    justify-items: center;
+}
